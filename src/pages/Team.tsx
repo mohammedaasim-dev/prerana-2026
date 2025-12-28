@@ -46,7 +46,7 @@ const domainTeams = [
   {
     name: "Events",
     roles: [
-      { title: "Head", members: [{ name: "B. Neha Reddy" }] },
+      { title: "Head", members: [{ name: "B. Neha Reddy", image: "/images/team/neha-reddy.jpg" }] },
       { title: "Lead", members: [{ name: "Rachel Smita Massey", image: "https://harmless-tapir-303.convex.cloud/api/storage/0f0b0031-49bc-4b23-b9e0-83e21b0554d0" }] },
       { title: "Co-Lead", members: [{ name: "Lanka Darshini Raj", image: "https://harmless-tapir-303.convex.cloud/api/storage/851a576e-08b8-4bd2-b360-793a2dab85c9" }, { name: "P. Yathin Bharadwaj", image: "https://harmless-tapir-303.convex.cloud/api/storage/1a77c08c-0a3c-4039-96a6-1fc5cd25f1fd" }] },
     ]
@@ -54,7 +54,7 @@ const domainTeams = [
   {
     name: "Marketing",
     roles: [
-      { title: "Head", members: [{ name: "Apurva Mishra" }] },
+      { title: "Head", members: [{ name: "Apurva Mishra", image: "/images/team/apurva-mishra.jpg" }] },
       { title: "Lead", members: [{ name: "Manoj Kumar" }] },
       { title: "Co-Lead", members: [{ name: "J. Riteesh Reddy" }] },
     ]
@@ -62,7 +62,7 @@ const domainTeams = [
   {
     name: "Operations",
     roles: [
-      { title: "Head", members: [{ name: "Singareddy Ruthish Reddy" }] },
+      { title: "Head", members: [{ name: "Singareddy Ruthish Reddy", image: "/images/team/singareddy-ruthish-reddy.jpg" }] },
       { title: "Lead", members: [{ name: "P. Joel Michael Son" }] },
       { title: "Co-Lead", members: [{ name: "Allata Harshita" }] },
     ]
@@ -70,7 +70,7 @@ const domainTeams = [
   {
     name: "Sponsorship",
     roles: [
-      { title: "Head", members: [{ name: "K. Sriniwas" }] },
+      { title: "Head", members: [{ name: "K. Sriniwas", image: "/images/team/k-sriniwas.jpg" }] },
       { title: "Lead", members: [{ name: "Sumanth Reddy S" }] },
       { title: "Co-Lead", members: [{ name: "Srishti Sucklecha" }] },
     ]
